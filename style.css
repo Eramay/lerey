@@ -1,0 +1,14 @@
+
+body,h1 {font-family: "Montserrat", sans-serif}
+img {margin-bottom: -7px}
+.w3-row-padding img {margin-bottom: 12px}
+
+.caterer {font-family: Georgia, Serif;}
+h1, h5 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+    background-color:aquamarine;
+}
+ h1, h5 {
+	 background-color: aquamarine;
+ }
